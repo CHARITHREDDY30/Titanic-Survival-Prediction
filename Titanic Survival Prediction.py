@@ -1,5 +1,3 @@
-# Titanic Survival Prediction - Full Project
-
 # Step 1: Import Libraries
 import pandas as pd
 import numpy as np
